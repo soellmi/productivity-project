@@ -14,6 +14,14 @@ h4{
     line-height: 33px;
 }
 
+h5{
+    font-family: font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #2F281E;
+}
+
 .header-navbar{
     display: flex;
     flex-direction: row;
@@ -123,4 +131,33 @@ h4{
     font-size: 16px;
     line-height: 24px;
     border: none;
+}
+
+.section-1{
+    width: 486px;
+    height: 574px;
+    
+}
+
+.section-1-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #544837;
+}
+.section-2-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #544837;
+
+}
+.section-3-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #544837;
 }
