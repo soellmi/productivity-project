@@ -12,7 +12,7 @@
     justify-content: space-evenly;   
 }
 
-.buttons-header{
+.buttons-nav{
     display: flex;
     justify-content: space-evenly;
 }
@@ -22,7 +22,10 @@
     height: 46px;
     font-family: 'Poppins', sans-serif;
     font-size: 16;
+    font-weight: 600;
     background-color: #FFFF;
+    border-color: #BCD0E5;
+    color: #173A56;
 }
 
 .btn-sign-up {
@@ -30,6 +33,52 @@
     height: 46px;
     font-family: 'Poppins', sans-serif;
     font-size: 16;
+    font-weight: 600;
     background-color: #FF9900;
     color: white;
+    border: none;
+}
+.headline-header{ 
+    width: 518px;
+    height: auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    font-style: normal;
+    color: #2F281E;
+}
+.text-header{
+ width: 458px;
+ height: 95px;
+ font-family: 'Poppins', sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 18px;
+ line-height: 28px;
+ color: #544837;
+}
+
+.btn-get-started{
+    width: 175px;
+    height: 75px;
+    background-color: #FF9900;
+    color: #FFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border: none
+}
+.btn-watch-the-video{
+    width: 161px;
+    height: 63px;
+    background-color: #FFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF9900;
+    border: none;
+    text-decoration: underline;
+
 }
