@@ -1,0 +1,35 @@
+.header-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;   
+}
+
+.buttons-header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn-sign-in {
+    width: 102px;
+    height: 46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16;
+    background-color: #FFFF;
+}
+
+.btn-sign-up {
+    width: 102px;
+    height: 46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16;
+    background-color: #FF9900;
+    color: white;
+}
